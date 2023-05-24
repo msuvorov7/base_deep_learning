@@ -7,3 +7,6 @@
 (из центрального слова предсказать контекст)
 - [Style Transformer](CV/style_transformer.ipynb) - перенос стиля через обученную 
 сверточную сеть из [репозитория](https://github.com/msuvorov7/real_styler)
+- [SSD300 Detector](CV/SSD300_Detector.ipynb) - по мотивам семинаров Ozon Masters 
+и [источника](https://www.kaggle.com/code/sdeagggg/ssd300-with-pytorch) SSD для 
+детекции текста из [датасета](https://textvqa.org/textocr/dataset/)
