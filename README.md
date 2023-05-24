@@ -5,6 +5,8 @@
 ## NLP
 - [Word2Vec](NLP/word2vec.ipynb) - реализация модели Word2Vec в подходе Skip-Gram 
 (из центрального слова предсказать контекст)
+
+## CV
 - [Style Transformer](CV/style_transformer.ipynb) - перенос стиля через обученную 
 сверточную сеть из [репозитория](https://github.com/msuvorov7/real_styler)
 - [SSD300 Detector](CV/SSD300_Detector.ipynb) - по мотивам семинаров Ozon Masters 
