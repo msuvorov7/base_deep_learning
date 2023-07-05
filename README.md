@@ -5,6 +5,9 @@
 ## NLP
 - [Word2Vec](NLP/word2vec.ipynb) - реализация модели Word2Vec в подходе Skip-Gram 
 (из центрального слова предсказать контекст)
+- [BiLSTM_CRF](NLP/BiLSTM_CRF.ipynb) - реализация сети со слоем 
+[CRF](https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html)
+(+ small optimization) для задачи NER (новости) + инференс на ONNX
 
 ## CV
 - [Style Transformer](CV/style_transformer.ipynb) - перенос стиля через обученную 
