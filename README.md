@@ -5,6 +5,10 @@
 ## NLP
 - [Word2Vec](NLP/word2vec.ipynb) - реализация модели Word2Vec в подходе Skip-Gram 
 (из центрального слова предсказать контекст)
+- [Seq2Seq_with_Attention](NLP/seq2seq_with_attn.ipynb) - задача машинного перевода (EN->RU)
+с механизмом внимания
+- [Transformer](NLP/transformer.ipynb) - задача машинного перевода (EN->RU) с 
+обучением трансформера
 
 ## CV
 - [Style Transformer](CV/style_transformer.ipynb) - перенос стиля через обученную 
