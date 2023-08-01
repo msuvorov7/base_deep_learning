@@ -8,6 +8,10 @@
 - [BiLSTM_CRF](NLP/BiLSTM_CRF.ipynb) - реализация сети со слоем 
 [CRF](https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html)
 (+ small optimization) для задачи NER (новости) + инференс на ONNX
+- [Seq2Seq_with_Attention](NLP/seq2seq_with_attn.ipynb) - задача машинного перевода (EN->RU)
+с механизмом внимания
+- [Transformer](NLP/transformer.ipynb) - задача машинного перевода (EN->RU) с 
+обучением трансформера
 
 ## CV
 - [Style Transformer](CV/style_transformer.ipynb) - перенос стиля через обученную 
