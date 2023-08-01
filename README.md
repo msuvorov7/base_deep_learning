@@ -5,6 +5,9 @@
 ## NLP
 - [Word2Vec](NLP/word2vec.ipynb) - реализация модели Word2Vec в подходе Skip-Gram 
 (из центрального слова предсказать контекст)
+- [BiLSTM_CRF](NLP/BiLSTM_CRF.ipynb) - реализация сети со слоем 
+[CRF](https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html)
+(+ small optimization) для задачи NER (новости) + инференс на ONNX
 - [Seq2Seq_with_Attention](NLP/seq2seq_with_attn.ipynb) - задача машинного перевода (EN->RU)
 с механизмом внимания
 - [Transformer](NLP/transformer.ipynb) - задача машинного перевода (EN->RU) с 
