@@ -19,3 +19,13 @@
 - [SSD300 Detector](CV/SSD300_Detector.ipynb) - по мотивам семинаров Ozon Masters 
 и [источника](https://www.kaggle.com/code/sdeagggg/ssd300-with-pytorch) SSD для 
 детекции текста из [датасета](https://textvqa.org/textocr/dataset/)
+
+## RL
+- [Cross Entropy Method discrete](RL/cross_entropy_taxi.py) - реализация метода Кросс-Энтропии
+для среды Taxi-v3 с использованием сглаживания
+- [Cross Entropy Method continuous](RL/cross_entropy_lunar_lander.py) - реализация метода
+Кросс-Энтропии для среды LunarLander-v2
+- [Model Free](RL/model_free.py) - реализация методов Q-Learning, Sarsa, Monte-Carlo для
+среды CartPole-v1 с бинаризацией состояний среды
+- [Deep Q-Networks](RL/deep_q_networks.py) - реализация методов DQN, HardTargetDQN, SoftTargetDQN,
+DoubleDQN для среды LunarLander-v2
