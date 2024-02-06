@@ -29,3 +29,7 @@
 среды CartPole-v1 с бинаризацией состояний среды
 - [Deep Q-Networks](RL/deep_q_networks.py) - реализация методов DQN, HardTargetDQN, SoftTargetDQN,
 DoubleDQN для среды LunarLander-v2
+- [PPO Acrobot](RL/ppo_acrobot.py) - реализация метода PPO для среды Acrobot-v1
+- [PPO Pendulum](RL/ppo_pendulum.py) - реализация метода PPO для среды Pendulum-v1
+- [SAC Pendulum](RL/sac_pendulum.py) - реализация метода Soft Actor-Critic для среды Pendulum-v1
+- [SAC CartPole](RL/sac_cartpole.py) - реализация метода Soft Actor-Critic для среды CartPole-v1
