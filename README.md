@@ -1,6 +1,10 @@
 # base_deep_learning
 Репозиторий для кратких решений основных задач из DL
 
+## Audio
+- [ASR](Audio/golos_asr_400.ipynb) - реализация [Quartznet](https://arxiv.org/pdf/1910.10261.pdf)
+на датасете [Golos](https://github.com/salute-developers/golos)
+
 
 ## NLP
 - [Word2Vec](NLP/word2vec.ipynb) - реализация модели Word2Vec в подходе Skip-Gram 
