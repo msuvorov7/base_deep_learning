@@ -24,6 +24,10 @@
 и [источника](https://www.kaggle.com/code/sdeagggg/ssd300-with-pytorch) SSD для 
 детекции текста из [датасета](https://textvqa.org/textocr/dataset/)
 
+## Generative Models
+- [PixelCNN](Generative%20Models/PixelCNN.ipynb) - реализация авторегрессионной 
+генеративной модели PixelCNN на бинарном датасете MNIST
+
 ## RL
 - [Cross Entropy Method discrete](RL/cross_entropy_taxi.py) - реализация метода Кросс-Энтропии
 для среды Taxi-v3 с использованием сглаживания
