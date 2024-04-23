@@ -27,6 +27,7 @@
 ## Generative Models
 - [PixelCNN](Generative%20Models/PixelCNN.ipynb) - реализация авторегрессионной 
 генеративной модели PixelCNN на бинарном датасете MNIST
+- [VAE](Generative%20Models/VAE.ipynb) - реализация VAE на датасете MNIST
 
 ## RL
 - [Cross Entropy Method discrete](RL/cross_entropy_taxi.py) - реализация метода Кросс-Энтропии
