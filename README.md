@@ -30,6 +30,8 @@
 - [VAE](Generative%20Models/VAE.ipynb) - реализация VAE на датасете MNIST
 - [RealNVP](Generative%20Models/RealNVP.ipynb) - реализация [RealNVP](https://arxiv.org/pdf/1605.08803)
 на датасете MNIST
+- [WGAN-GP](Generative%20Models/WGAN-GP.ipynb) - [WGAN with Gradient Penalty](https://arxiv.org/pdf/1704.00028)
+- [WGAN-SN](Generative%20Models/WGAN-SN.ipynb) - [WGAN with Spectral Norm](https://arxiv.org/pdf/1802.05957)
 
 ## RL
 - [Cross Entropy Method discrete](RL/cross_entropy_taxi.py) - реализация метода Кросс-Энтропии
