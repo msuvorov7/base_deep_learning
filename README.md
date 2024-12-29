@@ -23,6 +23,8 @@
 - [SSD300 Detector](CV/SSD300_Detector.ipynb) - по мотивам семинаров Ozon Masters 
 и [источника](https://www.kaggle.com/code/sdeagggg/ssd300-with-pytorch) SSD для 
 детекции текста из [датасета](https://textvqa.org/textocr/dataset/)
+- [MobileNet](CV/MobileNet.ipynb) - [V1](https://arxiv.org/pdf/1704.04861) 
+и [V2](https://arxiv.org/pdf/1801.04381) для классификации
 
 ## Generative Models
 - [PixelCNN](Generative%20Models/PixelCNN.ipynb) - реализация авторегрессионной 
