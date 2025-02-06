@@ -25,6 +25,7 @@
 детекции текста из [датасета](https://textvqa.org/textocr/dataset/)
 - [MobileNet](CV/MobileNet.ipynb) - [V1](https://arxiv.org/pdf/1704.04861) 
 и [V2](https://arxiv.org/pdf/1801.04381) для классификации
+- [SSDLite](CV/SSDLite.ipynb) - реализация с MobileNetV2 backbone на данных mscoco2017
 
 ## Generative Models
 - [PixelCNN](Generative%20Models/PixelCNN.ipynb) - реализация авторегрессионной 
