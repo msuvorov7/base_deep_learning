@@ -25,6 +25,7 @@
 детекции текста из [датасета](https://textvqa.org/textocr/dataset/)
 - [MobileNet](CV/MobileNet.ipynb) - [V1](https://arxiv.org/pdf/1704.04861) 
 и [V2](https://arxiv.org/pdf/1801.04381) для классификации
+- [Darknet53](CV/Darknet53.ipynb) - [backbone](https://pjreddie.com/media/files/papers/YOLOv3.pdf) от yolov3 для классификации
 - [SSDLite](CV/SSDLite.ipynb) - реализация с MobileNetV2 backbone на данных mscoco2017
 
 ## Generative Models
