@@ -27,6 +27,7 @@
 и [V2](https://arxiv.org/pdf/1801.04381) для классификации
 - [Darknet53](CV/Darknet53.ipynb) - [backbone](https://pjreddie.com/media/files/papers/YOLOv3.pdf) от yolov3 для классификации
 - [SSDLite](CV/SSDLite.ipynb) - реализация с MobileNetV2 backbone на данных mscoco2017
+- [YOLOv3](CV/YOLOv3.ipynb) - реализация [YOLOv3](https://arxiv.org/pdf/1804.02767) на данных mscoco2017
 
 ## Generative Models
 - [PixelCNN](Generative%20Models/PixelCNN.ipynb) - реализация авторегрессионной 
