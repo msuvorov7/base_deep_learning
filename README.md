@@ -38,6 +38,7 @@
 - [WGAN-GP](Generative%20Models/WGAN-GP.ipynb) - [WGAN with Gradient Penalty](https://arxiv.org/pdf/1704.00028)
 - [WGAN-SN](Generative%20Models/WGAN-SN.ipynb) - [WGAN with Spectral Norm](https://arxiv.org/pdf/1802.05957)
 - [DDPM](Generative%20Models/ddpm.ipynb) - реализация диффузионной модели ([DDPM](https://arxiv.org/pdf/2006.11239))
+- [LDM](Generative%20Models/ldm.ipynb) - реализация модели латентной диффузии и VQVAE
 
 ## RL
 - [Cross Entropy Method discrete](RL/cross_entropy_taxi.py) - реализация метода Кросс-Энтропии
